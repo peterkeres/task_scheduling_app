@@ -10,6 +10,8 @@ this app will be handled by the tornadoFX library.
 * Project status: Prototype
 * Programming Language Final
 
+Check out our presentation [here](https://youtu.be/OiqHbNj6aLo)
+
 ## Table of contents
 
 > * [To-Do List app](#To-Do-List-app)
